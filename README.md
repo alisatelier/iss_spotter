@@ -1,7 +1,7 @@
 # ISS Spotter
 
 ## Callbacks
-Please see [index.js](./index.js) and [iss.js](./iss.js) to view code written using callbacks.
+Please see [iss.js](./iss.js) to view code written using callbacks.
 
 
 ## Promises
