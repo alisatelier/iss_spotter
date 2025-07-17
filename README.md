@@ -9,4 +9,4 @@ Please see [index.js](./index.js), [index2.js](./index2.js) and [iss_promised.js
 
 
 ##### Please Note:
-The file structure was dictated by my educational institution and does not utilize file management best practices (naming primary file index2.js for example). This repository wwas left as per class instruction.
+The file structure was dictated by my educational institution and does not utilize file management best practices (naming primary file index2.js for example). This repository was left as per class instruction.
